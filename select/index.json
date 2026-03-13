@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラビバアソビバ!!",
+  "base_artist": "GANG PARADE",
+  "createdAt": "2026-03-13T17:19:22.708862Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラビバアソビバ!!",
+      "artist": "GANG PARADE",
+      "has_synced": false,
+      "path": "select/pl_01_ラビバアソビバ!!_GANG_PARADE.txt"
+    }
+  ]
+}
